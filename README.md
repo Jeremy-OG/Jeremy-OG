@@ -9,7 +9,7 @@ I indulge in all things Cybersecurity and build systems that help people.
 
 **Cybersecurity Tools** Kali Linux, Wireshark, Splunk, AWS(CloudTrail, GuardDuty), Sentinel
 
-**Backend** Node.js(Express), Postgres/MySQL, AWS(ECS, Lambda), Docker
+**Backend** Node.js(Express), FastAPI, Postgres/MySQL, AWS(ECS, Lambda), Docker
 
 **Frontend** React,Angular(Conceptually)
 
