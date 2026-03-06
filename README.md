@@ -7,7 +7,6 @@ I indulge in all things Cybersecurity and build systems that help people.
 ---
 ### Tech Stack
 
-
 **Cybersecurity Tools**
 Kali Linux, Wireshark, Splunk, AWS(CloudTrail, GuardDuty), Sentinel
 
