@@ -1,6 +1,6 @@
 # Hey there, I'm Jeremy 👋
 
-**Cybersecurity and Software Engineering Enthusiast| Student**
+**Cybersecurity and Software Engineering Enthusiast | Student**
 
 I indulge in all things Cybersecurity and build systems that help people.
 
