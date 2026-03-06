@@ -29,7 +29,7 @@ Zero-to-dashboard metrics with Prometheus, Grafana, and automated Slack alerts.
 - Automated Alerting – Intelligent incident routing using Prometheus and Alertmanager.
 - Instant Notifications – Direct Slack API integration for immediate team awareness.
 - Scalable Architecture – Built with industry-standard DevOps tools for production reliability.
-- 
-**Possible ideas**:
+
+**Possible ideas**
 -Reactive Slack AI Agent – An active-response chatbot to provide on-demand system status and log summaries via @mentions.
 -In-App Monitoring Co-Pilot – An integrated AI assistant within the web frontend to suggest performance optimizations and root-cause analysis.
