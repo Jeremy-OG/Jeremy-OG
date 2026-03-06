@@ -23,8 +23,8 @@ React, Angular(Conceptually)
 ### JermDetect
 **Self-hosted observability and incident response suite**
 
-A pre-configured monitoring stack for Node.js applications to track health, performance, and reliability.
-Zero-to-dashboard metrics with Prometheus, Grafana, and automated Slack alerts.
+A language-agnostic monitoring suite with first-class support for Node.js environments.
+Designed to maximize system uptime by bridging Prometheus metrics with real-time, automated Slack notifications.
 
 **Key Features**
 - Real-time Monitoring – Live health tracking and performance metrics for Node.js applications.
