@@ -7,14 +7,11 @@ I indulge in all things Cybersecurity and build systems that help people.
 ---
 ### Tech Stack
 
-**Cybersecurity Tools** 
-Kali Linux, Wireshark, Splunk, AWS(CloudTrail, GuardDuty), Sentinel
+**Cybersecurity Tools** Kali Linux, Wireshark, Splunk, AWS(CloudTrail, GuardDuty), Sentinel
 
-**Backend** 
-Node.js(Express), Postgres/MySQL, AWS(ECS, Lambda), Docker
+**Backend** Node.js(Express), Postgres/MySQL, AWS(ECS, Lambda), Docker
 
-**Frontend** 
-React,Angular(Conceptually)
+**Frontend** React,Angular(Conceptually)
 
 ---
 
@@ -32,6 +29,7 @@ Zero-to-dashboard metrics with Prometheus, Grafana, and automated Slack alerts.
 - Automated Alerting – Intelligent incident routing using Prometheus and Alertmanager.
 - Instant Notifications – Direct Slack API integration for immediate team awareness.
 - Scalable Architecture – Built with industry-standard DevOps tools for production reliability.
-*Possible ideas*:
-Reactive Slack AI Agent – An active-response chatbot to provide on-demand system status and log summaries via @mentions.
-In-App Monitoring Co-Pilot – An integrated AI assistant within the web frontend to suggest performance optimizations and root-cause analysis.
+- 
+**Possible ideas**:
+-Reactive Slack AI Agent – An active-response chatbot to provide on-demand system status and log summaries via @mentions.
+-In-App Monitoring Co-Pilot – An integrated AI assistant within the web frontend to suggest performance optimizations and root-cause analysis.
