@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I'm Jeremy 👋
 
 <!--
 **Jeremy-OG/Jeremy-OG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
