@@ -31,5 +31,5 @@ Zero-to-dashboard metrics with Prometheus, Grafana, and automated Slack alerts.
 - Scalable Architecture – Built with industry-standard DevOps tools for production reliability.
 
 **Possible ideas**
--Reactive Slack AI Agent – An active-response chatbot to provide on-demand system status and log summaries via @mentions.
--In-App Monitoring Co-Pilot – An integrated AI assistant within the web frontend to suggest performance optimizations and root-cause analysis.
+- Reactive Slack AI Agent – An active-response chatbot to provide on-demand system status and log summaries via @mentions.
+- In-App Monitoring Co-Pilot – An integrated AI assistant within the web frontend to suggest performance optimizations and root-cause analysis.
