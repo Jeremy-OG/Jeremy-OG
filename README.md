@@ -16,7 +16,7 @@ Node.js(Express), FastAPI, Postgres/MySQL, AWS(Boto3, Lambda), Go
 **Frontend**  
 React, Angular(Conceptually)
 
-**DevOps**
+**DevOps** 
 Docker, Kubernetes, Github Actions, Jenkins, ArgoCD
 
 ---
