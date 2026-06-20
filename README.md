@@ -14,7 +14,7 @@ Kali Linux, Wireshark, Splunk, AWS(CloudTrail, GuardDuty), Sentinel
 Node.js(Express), FastAPI, Postgres/MySQL, AWS(Boto3, Lambda), Go, Rust
 
 **Frontend**  
-React, Angular(Conceptually)
+React, Angular, Next.JS
 
 **DevOps**  
 Docker, Kubernetes, Github Actions, Jenkins, ArgoCD
